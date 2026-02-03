@@ -1,0 +1,49 @@
+# 华美
+DOMAIN-SUFFIX,eastwestbank.com
+
+# tello
+DOMAIN-SUFFIX,tello.com
+DOMAIN-SUFFIX,keepcalling.net
+DOMAIN-SUFFIX,play.googleapis.com
+
+# talkatone
+DOMAIN-SUFFIX,inner-active.mobi
+
+# amazon
+DOMAIN-SUFFIX,media-amazon.com
+DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,amazon.dev
+
+# capitalone
+DOMAIN-SUFFIX,capitalone.com
+DOMAIN-SUFFIX,capitalone.smart.link
+DOMAIN-SUFFIX,
+
+##############
+
+# experian
+DOMAIN-SUFFIX,experian.com
+DOMAIN-SUFFIX,split.io
+DOMAIN-SUFFIX,fpconfig.net
+DOMAIN-SUFFIX,neuro-id.com
+
+# fico equifax experian
+DOMAIN-SUFFIX,fico.com
+DOMAIN-SUFFIX,equifax.com
+DOMAIN-SUFFIX,experian.com
+
+# other
+DOMAIN-SUFFIX,fingerprint.com
+DOMAIN-SUFFIX,fingerprintjs.com
+DOMAIN-SUFFIX,fpcdn.io
+DOMAIN-SUFFIX,fpjs.io
+DOMAIN-SUFFIX,cardinalcommerce.com
+DOMAIN-SUFFIX,rsa.com
+DOMAIN-SUFFIX,iovation.com
+DOMAIN-SUFFIX,tealiumiq.com
+DOMAIN-SUFFIX,tiqcdn.com
+DOMAIN-SUFFIX,segment.io
+
+
+
+DOMAIN-SUFFIX,velobank.com
